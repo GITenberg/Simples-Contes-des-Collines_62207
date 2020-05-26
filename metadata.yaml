@@ -1,0 +1,35 @@
+_repo: Simples-Contes-des-Collines_62207
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Savine, Albert
+    alias: Savine, Alberto
+    birthdate: 1859
+    deathdate: 1927
+    gutenberg_agent_id: '8201'
+    url: http://www.gutenberg.org/2009/agents/8201
+    wikipedia: https://fr.wikipedia.org/wiki/Albert_Savine
+creator:
+  author:
+    agent_name: Kipling, Rudyard
+    aliases:
+    - Kipling, Joseph Rudyard
+    - Kipling, R. (Rudyard)
+    birthdate: 1865
+    deathdate: 1936
+    gutenberg_agent_id: '132'
+    url: http://www.gutenberg.org/2009/agents/132
+    wikipedia: https://en.wikipedia.org/wiki/Rudyard_Kipling
+description: ''
+gutenberg_issued: '2020-05-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62207'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Simples Contes des Collines
+url: http://www.gutenberg.org/ebooks/62207
